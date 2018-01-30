@@ -9,7 +9,6 @@
     "retreatCost": null,
     "number": "1",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -27,6 +26,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Ultra_Prism_1)"
   },
   {
@@ -39,7 +39,6 @@
     "retreatCost": null,
     "number": "2",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -57,6 +56,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Yanma_(Ultra_Prism_2)"
   },
   {
@@ -69,7 +69,6 @@
     "retreatCost": null,
     "number": "3",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -87,6 +86,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Yanmega_(Ultra_Prism_3)"
   },
   {
@@ -99,7 +99,6 @@
     "retreatCost": null,
     "number": "4",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -117,6 +116,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Roselia_(Ultra_Prism_4)"
   },
   {
@@ -129,7 +129,6 @@
     "retreatCost": null,
     "number": "5",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -147,6 +146,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Roserade_(Ultra_Prism_5)"
   },
   {
@@ -159,7 +159,6 @@
     "retreatCost": null,
     "number": "6",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -177,6 +176,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Turtwig_(Ultra_Prism_6)"
   },
   {
@@ -189,7 +189,6 @@
     "retreatCost": null,
     "number": "7",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -207,6 +206,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Turtwig_(Ultra_Prism_7)"
   },
   {
@@ -219,7 +219,6 @@
     "retreatCost": null,
     "number": "8",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -237,6 +236,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Grotle_(Ultra_Prism_8)"
   },
   {
@@ -249,7 +249,6 @@
     "retreatCost": null,
     "number": "9",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -267,6 +266,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Torterra_(Ultra_Prism_9)"
   },
   {
@@ -279,7 +279,6 @@
     "retreatCost": null,
     "number": "10",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -297,6 +296,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Cherubi_(Ultra_Prism_10)"
   },
   {
@@ -309,7 +309,6 @@
     "retreatCost": null,
     "number": "11",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -327,6 +326,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Cherrim_(Ultra_Prism_11)"
   },
   {
@@ -339,7 +339,6 @@
     "retreatCost": null,
     "number": "12",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -357,20 +356,19 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Carnivine_(Ultra_Prism_12)"
   },
   {
     "id": "sm5-13",
     "name": "Leafeon-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "13",
     "artist": null,
-    "rarity": "Ultra-Rare Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -388,6 +386,8 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Ultra-Rare Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Leafeon-GX_(Ultra_Prism_13)"
   },
   {
@@ -400,7 +400,6 @@
     "retreatCost": null,
     "number": "14",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -418,6 +417,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Mow_Rotom_(Ultra_Prism_14)"
   },
   {
@@ -430,7 +430,6 @@
     "retreatCost": null,
     "number": "15",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -448,6 +447,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Shaymin_(Ultra_Prism_15)"
   },
   {
@@ -460,7 +460,6 @@
     "retreatCost": null,
     "number": "16",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -478,6 +477,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Dewpider_(Ultra_Prism_16)"
   },
   {
@@ -490,7 +490,6 @@
     "retreatCost": null,
     "number": "17",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -508,6 +507,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Araquanid_(Ultra_Prism_17)"
   },
   {
@@ -520,7 +520,6 @@
     "retreatCost": null,
     "number": "18",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -538,6 +537,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Magmar_(Ultra_Prism_18)"
   },
   {
@@ -550,7 +550,6 @@
     "retreatCost": null,
     "number": "19",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -568,6 +567,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Magmortar_(Ultra_Prism_19)"
   },
   {
@@ -580,7 +580,6 @@
     "retreatCost": null,
     "number": "20",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -598,6 +597,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Chimchar_(Ultra_Prism_20)"
   },
   {
@@ -610,7 +610,6 @@
     "retreatCost": null,
     "number": "21",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -628,6 +627,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Chimchar_(Ultra_Prism_21)"
   },
   {
@@ -640,7 +640,6 @@
     "retreatCost": null,
     "number": "22",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -658,6 +657,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Monferno_(Ultra_Prism_22)"
   },
   {
@@ -670,7 +670,6 @@
     "retreatCost": null,
     "number": "23",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -688,6 +687,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Infernape_(Ultra_Prism_23)"
   },
   {
@@ -700,7 +700,6 @@
     "retreatCost": null,
     "number": "24",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -718,6 +717,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Heat_Rotom_(Ultra_Prism_24)"
   },
   {
@@ -730,7 +730,6 @@
     "retreatCost": null,
     "number": "25",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -748,6 +747,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Salandit_(Ultra_Prism_25)"
   },
   {
@@ -760,7 +760,6 @@
     "retreatCost": null,
     "number": "26",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -778,6 +777,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Salazzle_(Ultra_Prism_26)"
   },
   {
@@ -790,7 +790,6 @@
     "retreatCost": null,
     "number": "27",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -808,6 +807,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Turtonator_(Ultra_Prism_27)"
   },
   {
@@ -820,7 +820,6 @@
     "retreatCost": null,
     "number": "28",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -838,6 +837,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Alolan_Sandshrew_(Ultra_Prism_28)"
   },
   {
@@ -850,7 +850,6 @@
     "retreatCost": null,
     "number": "29",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -868,6 +867,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Alolan_Sandslash_(Ultra_Prism_29)"
   },
   {
@@ -880,7 +880,6 @@
     "retreatCost": null,
     "number": "30",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -898,6 +897,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Alolan_Vulpix_(Ultra_Prism_30)"
   },
   {
@@ -910,7 +910,6 @@
     "retreatCost": null,
     "number": "31",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -928,6 +927,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Piplup_(Ultra_Prism_31)"
   },
   {
@@ -940,7 +940,6 @@
     "retreatCost": null,
     "number": "32",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -958,6 +957,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Piplup_(Ultra_Prism_32)"
   },
   {
@@ -970,7 +970,6 @@
     "retreatCost": null,
     "number": "33",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -988,6 +987,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Prinplup_(Ultra_Prism_33)"
   },
   {
@@ -1000,7 +1000,6 @@
     "retreatCost": null,
     "number": "34",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1018,6 +1017,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Empoleon_(Ultra_Prism_34)"
   },
   {
@@ -1030,7 +1030,6 @@
     "retreatCost": null,
     "number": "35",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1048,6 +1047,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Buizel_(Ultra_Prism_35)"
   },
   {
@@ -1060,7 +1060,6 @@
     "retreatCost": null,
     "number": "36",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1078,6 +1077,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Floatzel_(Ultra_Prism_36)"
   },
   {
@@ -1090,7 +1090,6 @@
     "retreatCost": null,
     "number": "37",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1108,6 +1107,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Snover_(Ultra_Prism_37)"
   },
   {
@@ -1120,7 +1120,6 @@
     "retreatCost": null,
     "number": "38",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1138,20 +1137,19 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Abomasnow_(Ultra_Prism_38)"
   },
   {
     "id": "sm5-39",
     "name": "Glaceon-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "39",
     "artist": null,
-    "rarity": "Ultra-Rare Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1169,6 +1167,8 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Ultra-Rare Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Glaceon-GX_(Ultra_Prism_39)"
   },
   {
@@ -1181,7 +1181,6 @@
     "retreatCost": null,
     "number": "40",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1199,6 +1198,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Wash_Rotom_(Ultra_Prism_40)"
   },
   {
@@ -1211,7 +1211,6 @@
     "retreatCost": null,
     "number": "41",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1229,6 +1228,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Frost_Rotom_(Ultra_Prism_41)"
   },
   {
@@ -1241,7 +1241,6 @@
     "retreatCost": null,
     "number": "42",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1259,6 +1258,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Manaphy_(Ultra_Prism_42)"
   },
   {
@@ -1271,7 +1271,6 @@
     "retreatCost": null,
     "number": "43",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1289,6 +1288,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Electabuzz_(Ultra_Prism_43)"
   },
   {
@@ -1301,7 +1301,6 @@
     "retreatCost": null,
     "number": "44",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1319,6 +1318,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Electivire_(Ultra_Prism_44)"
   },
   {
@@ -1331,7 +1331,6 @@
     "retreatCost": null,
     "number": "45",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1349,6 +1348,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Shinx_(Ultra_Prism_45)"
   },
   {
@@ -1361,7 +1361,6 @@
     "retreatCost": null,
     "number": "46",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1379,6 +1378,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Shinx_(Ultra_Prism_46)"
   },
   {
@@ -1391,7 +1391,6 @@
     "retreatCost": null,
     "number": "47",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1409,6 +1408,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Luxio_(Ultra_Prism_47)"
   },
   {
@@ -1421,7 +1421,6 @@
     "retreatCost": null,
     "number": "48",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1439,6 +1438,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Luxray_(Ultra_Prism_48)"
   },
   {
@@ -1451,7 +1451,6 @@
     "retreatCost": null,
     "number": "49",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1469,6 +1468,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Pachirisu_(Ultra_Prism_49)"
   },
   {
@@ -1481,7 +1481,6 @@
     "retreatCost": null,
     "number": "50",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1499,6 +1498,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Rotom_(Ultra_Prism_50)"
   },
   {
@@ -1511,7 +1511,6 @@
     "retreatCost": null,
     "number": "51",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1529,6 +1528,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Drifloon_(Ultra_Prism_51)"
   },
   {
@@ -1541,7 +1541,6 @@
     "retreatCost": null,
     "number": "52",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1559,6 +1558,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Drifblim_(Ultra_Prism_52)"
   },
   {
@@ -1571,7 +1571,6 @@
     "retreatCost": null,
     "number": "53",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1589,6 +1588,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Spiritomb_(Ultra_Prism_53)"
   },
   {
@@ -1601,7 +1601,6 @@
     "retreatCost": null,
     "number": "54",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1619,6 +1618,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Skorupi_(Ultra_Prism_54)"
   },
   {
@@ -1631,7 +1631,6 @@
     "retreatCost": null,
     "number": "55",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1649,6 +1648,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Drapion_(Ultra_Prism_55)"
   },
   {
@@ -1661,7 +1661,6 @@
     "retreatCost": null,
     "number": "56",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1679,6 +1678,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Croagunk_(Ultra_Prism_56)"
   },
   {
@@ -1691,7 +1691,6 @@
     "retreatCost": null,
     "number": "57",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1709,6 +1708,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Toxicroak_(Ultra_Prism_57)"
   },
   {
@@ -1721,7 +1721,6 @@
     "retreatCost": null,
     "number": "58",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1739,6 +1738,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Giratina_%E2%99%A2_(Ultra_Prism_58)"
   },
   {
@@ -1751,7 +1751,6 @@
     "retreatCost": null,
     "number": "59",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1769,6 +1768,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Cresselia_(Ultra_Prism_59)"
   },
   {
@@ -1781,7 +1781,6 @@
     "retreatCost": null,
     "number": "60",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1799,6 +1798,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Cosmog_(Ultra_Prism_60)"
   },
   {
@@ -1811,7 +1811,6 @@
     "retreatCost": null,
     "number": "61",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1829,6 +1828,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Cosmoem_(Ultra_Prism_61)"
   },
   {
@@ -1841,7 +1841,6 @@
     "retreatCost": null,
     "number": "62",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1859,20 +1858,19 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Lunala_%E2%99%A2_(Ultra_Prism_62)"
   },
   {
     "id": "sm5-63",
     "name": "Dawn Wings Necrozma-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "63",
     "artist": null,
-    "rarity": "Ultra-Rare Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1890,6 +1888,8 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Ultra-Rare Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Dawn_Wings_Necrozma-GX_(Ultra_Prism_63)"
   },
   {
@@ -1902,7 +1902,6 @@
     "retreatCost": null,
     "number": "64",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1920,6 +1919,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Cranidos_(Ultra_Prism_64)"
   },
   {
@@ -1932,7 +1932,6 @@
     "retreatCost": null,
     "number": "65",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1950,6 +1949,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Rampardos_(Ultra_Prism_65)"
   },
   {
@@ -1962,7 +1962,6 @@
     "retreatCost": null,
     "number": "66",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1980,6 +1979,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Riolu_(Ultra_Prism_66)"
   },
   {
@@ -1992,7 +1992,6 @@
     "retreatCost": null,
     "number": "67",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2010,6 +2009,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(Ultra_Prism_67)"
   },
   {
@@ -2022,7 +2022,6 @@
     "retreatCost": null,
     "number": "68",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2040,6 +2039,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Hippopotas_(Ultra_Prism_68)"
   },
   {
@@ -2052,7 +2052,6 @@
     "retreatCost": null,
     "number": "69",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2070,6 +2069,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Hippowdon_(Ultra_Prism_69)"
   },
   {
@@ -2082,7 +2082,6 @@
     "retreatCost": null,
     "number": "70",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2100,6 +2099,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Passimian_(Ultra_Prism_70)"
   },
   {
@@ -2112,7 +2112,6 @@
     "retreatCost": null,
     "number": "71",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2130,6 +2129,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Murkrow_(Ultra_Prism_71)"
   },
   {
@@ -2142,7 +2142,6 @@
     "retreatCost": null,
     "number": "72",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2160,6 +2159,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Honchkrow_(Ultra_Prism_72)"
   },
   {
@@ -2172,7 +2172,6 @@
     "retreatCost": null,
     "number": "73",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2190,6 +2189,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Sneasel_(Ultra_Prism_73)"
   },
   {
@@ -2202,7 +2202,6 @@
     "retreatCost": null,
     "number": "74",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2220,6 +2219,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Weavile_(Ultra_Prism_74)"
   },
   {
@@ -2232,7 +2232,6 @@
     "retreatCost": null,
     "number": "75",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2250,6 +2249,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Stunky_(Ultra_Prism_75)"
   },
   {
@@ -2262,7 +2262,6 @@
     "retreatCost": null,
     "number": "76",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2280,6 +2279,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Skuntank_(Ultra_Prism_76)"
   },
   {
@@ -2292,7 +2292,6 @@
     "retreatCost": null,
     "number": "77",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2310,6 +2309,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Darkrai_%E2%99%A2_(Ultra_Prism_77)"
   },
   {
@@ -2322,7 +2322,6 @@
     "retreatCost": null,
     "number": "78",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2340,6 +2339,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Alolan_Diglett_(Ultra_Prism_78)"
   },
   {
@@ -2352,7 +2352,6 @@
     "retreatCost": null,
     "number": "79",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2370,6 +2369,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Alolan_Dugtrio_(Ultra_Prism_79)"
   },
   {
@@ -2382,7 +2382,6 @@
     "retreatCost": null,
     "number": "80",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2400,6 +2399,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Magnemite_(Ultra_Prism_80)"
   },
   {
@@ -2412,7 +2412,6 @@
     "retreatCost": null,
     "number": "81",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2430,6 +2429,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Magnemite_(Ultra_Prism_81)"
   },
   {
@@ -2442,7 +2442,6 @@
     "retreatCost": null,
     "number": "82",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2460,6 +2459,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Magneton_(Ultra_Prism_82)"
   },
   {
@@ -2472,7 +2472,6 @@
     "retreatCost": null,
     "number": "83",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2490,6 +2489,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Magnezone_(Ultra_Prism_83)"
   },
   {
@@ -2502,7 +2502,6 @@
     "retreatCost": null,
     "number": "84",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2520,6 +2519,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Shieldon_(Ultra_Prism_84)"
   },
   {
@@ -2532,7 +2532,6 @@
     "retreatCost": null,
     "number": "85",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2550,6 +2549,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Bastiodon_(Ultra_Prism_85)"
   },
   {
@@ -2562,7 +2562,6 @@
     "retreatCost": null,
     "number": "86",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2580,6 +2579,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Bronzor_(Ultra_Prism_86)"
   },
   {
@@ -2592,7 +2592,6 @@
     "retreatCost": null,
     "number": "87",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2610,6 +2609,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Bronzong_(Ultra_Prism_87)"
   },
   {
@@ -2622,7 +2622,6 @@
     "retreatCost": null,
     "number": "88",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2640,6 +2639,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Heatran_(Ultra_Prism_88)"
   },
   {
@@ -2652,7 +2652,6 @@
     "retreatCost": null,
     "number": "89",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2670,20 +2669,19 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Solgaleo_%E2%99%A2_(Ultra_Prism_89)"
   },
   {
     "id": "sm5-90",
     "name": "Dusk Mane Necrozma-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "90",
     "artist": null,
-    "rarity": "Ultra-Rare Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2701,6 +2699,8 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Ultra-Rare Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Dusk_Mane_Necrozma-GX_(Ultra_Prism_90)"
   },
   {
@@ -2713,7 +2713,6 @@
     "retreatCost": null,
     "number": "91",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2731,6 +2730,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Magearna_(Ultra_Prism_91)"
   },
   {
@@ -2743,7 +2743,6 @@
     "retreatCost": null,
     "number": "92",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2761,6 +2760,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Morelull_(Ultra_Prism_92)"
   },
   {
@@ -2773,7 +2773,6 @@
     "retreatCost": null,
     "number": "93",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2791,6 +2790,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Shiinotic_(Ultra_Prism_93)"
   },
   {
@@ -2803,7 +2803,6 @@
     "retreatCost": null,
     "number": "94",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2821,6 +2820,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Tapu_Lele_(Ultra_Prism_94)"
   },
   {
@@ -2833,7 +2833,6 @@
     "retreatCost": null,
     "number": "95",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2851,6 +2850,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Alolan_Exeggutor_(Ultra_Prism_95)"
   },
   {
@@ -2863,7 +2863,6 @@
     "retreatCost": null,
     "number": "96",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2881,6 +2880,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Gible_(Ultra_Prism_96)"
   },
   {
@@ -2893,7 +2893,6 @@
     "retreatCost": null,
     "number": "97",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2911,6 +2910,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Gible_(Ultra_Prism_97)"
   },
   {
@@ -2923,7 +2923,6 @@
     "retreatCost": null,
     "number": "98",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2941,6 +2940,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Gabite_(Ultra_Prism_98)"
   },
   {
@@ -2953,7 +2953,6 @@
     "retreatCost": null,
     "number": "99",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -2971,20 +2970,19 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Garchomp_(Ultra_Prism_99)"
   },
   {
     "id": "sm5-100",
     "name": "Dialga-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "100",
     "artist": null,
-    "rarity": "Ultra-Rare Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3002,20 +3000,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Ultra-Rare Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Dialga-GX_(Ultra_Prism_100)"
   },
   {
     "id": "sm5-101",
     "name": "Palkia-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "101",
     "artist": null,
-    "rarity": "Ultra-Rare Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3033,6 +3031,8 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Ultra-Rare Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Palkia-GX_(Ultra_Prism_101)"
   },
   {
@@ -3045,7 +3045,6 @@
     "retreatCost": null,
     "number": "102",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3063,6 +3062,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Lickitung_(Ultra_Prism_102)"
   },
   {
@@ -3075,7 +3075,6 @@
     "retreatCost": null,
     "number": "103",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3093,6 +3092,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Lickilicky_(Ultra_Prism_103)"
   },
   {
@@ -3105,7 +3105,6 @@
     "retreatCost": null,
     "number": "104",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3123,6 +3122,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Eevee_(Ultra_Prism_104)"
   },
   {
@@ -3135,7 +3135,6 @@
     "retreatCost": null,
     "number": "105",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3153,6 +3152,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Eevee_(Ultra_Prism_105)"
   },
   {
@@ -3165,7 +3165,6 @@
     "retreatCost": null,
     "number": "106",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3183,6 +3182,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Buneary_(Ultra_Prism_106)"
   },
   {
@@ -3195,7 +3195,6 @@
     "retreatCost": null,
     "number": "107",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3213,6 +3212,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Lopunny_(Ultra_Prism_107)"
   },
   {
@@ -3225,7 +3225,6 @@
     "retreatCost": null,
     "number": "108",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3243,6 +3242,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Glameow_(Ultra_Prism_108)"
   },
   {
@@ -3255,7 +3255,6 @@
     "retreatCost": null,
     "number": "109",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3273,6 +3272,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Purugly_(Ultra_Prism_109)"
   },
   {
@@ -3285,7 +3285,6 @@
     "retreatCost": null,
     "number": "110",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3303,6 +3302,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Fan_Rotom_(Ultra_Prism_110)"
   },
   {
@@ -3315,7 +3315,6 @@
     "retreatCost": null,
     "number": "111",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3333,6 +3332,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Shaymin_(Ultra_Prism_111)"
   },
   {
@@ -3345,7 +3345,6 @@
     "retreatCost": null,
     "number": "112",
     "artist": null,
-    "rarity": "Common",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3363,6 +3362,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Common",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Yungoos_(Ultra_Prism_112)"
   },
   {
@@ -3375,7 +3375,6 @@
     "retreatCost": null,
     "number": "113",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3393,6 +3392,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Gumshoos_(Ultra_Prism_113)"
   },
   {
@@ -3405,7 +3405,6 @@
     "retreatCost": null,
     "number": "114",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3423,6 +3422,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Oranguru_(Ultra_Prism_114)"
   },
   {
@@ -3435,7 +3435,6 @@
     "retreatCost": null,
     "number": "115",
     "artist": null,
-    "rarity": "Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3453,20 +3452,19 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Type:_Null_(Ultra_Prism_115)"
   },
   {
     "id": "sm5-116",
     "name": "Silvally-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "116",
     "artist": null,
-    "rarity": "Ultra-Rare Rare",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3484,6 +3482,8 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Ultra-Rare Rare",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Silvally-GX_(Ultra_Prism_116)"
   },
   {
@@ -3496,7 +3496,6 @@
     "retreatCost": null,
     "number": "117",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3514,6 +3513,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Drampa_(Ultra_Prism_117)"
   },
   {
@@ -3526,7 +3526,6 @@
     "retreatCost": null,
     "number": "118",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3544,6 +3543,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Ancient_Crystal_(Ultra_Prism_118)"
   },
   {
@@ -3556,7 +3556,6 @@
     "retreatCost": null,
     "number": "119",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3574,6 +3573,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Cynthia_(Ultra_Prism_119)"
   },
   {
@@ -3586,7 +3586,6 @@
     "retreatCost": null,
     "number": "120",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3604,6 +3603,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Cyrus_%E2%99%A2_(Ultra_Prism_120)"
   },
   {
@@ -3616,7 +3616,6 @@
     "retreatCost": null,
     "number": "121",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3634,6 +3633,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Electric_Memory_(Ultra_Prism_121)"
   },
   {
@@ -3646,7 +3646,6 @@
     "retreatCost": null,
     "number": "122",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3664,6 +3663,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Escape_Board_(Ultra_Prism_122)"
   },
   {
@@ -3676,7 +3676,6 @@
     "retreatCost": null,
     "number": "123",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3694,6 +3693,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Fire_Memory_(Ultra_Prism_123)"
   },
   {
@@ -3706,7 +3706,6 @@
     "retreatCost": null,
     "number": "124",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3724,6 +3723,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Gardenia_(Ultra_Prism_124)"
   },
   {
@@ -3736,7 +3736,6 @@
     "retreatCost": null,
     "number": "125",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3754,6 +3753,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Lillie_(Ultra_Prism_125)"
   },
   {
@@ -3766,7 +3766,6 @@
     "retreatCost": null,
     "number": "126",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3784,6 +3783,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Looker_(Ultra_Prism_126)"
   },
   {
@@ -3796,7 +3796,6 @@
     "retreatCost": null,
     "number": "127",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3814,6 +3813,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Looker_Whistle_(Ultra_Prism_127)"
   },
   {
@@ -3826,7 +3826,6 @@
     "retreatCost": null,
     "number": "128",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3844,6 +3843,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Mars_(Ultra_Prism_128)"
   },
   {
@@ -3856,7 +3856,6 @@
     "retreatCost": null,
     "number": "129",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3874,6 +3873,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Missing_Clover_(Ultra_Prism_129)"
   },
   {
@@ -3886,7 +3886,6 @@
     "retreatCost": null,
     "number": "130",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3904,6 +3903,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Mt._Coronet_(Ultra_Prism_130)"
   },
   {
@@ -3916,7 +3916,6 @@
     "retreatCost": null,
     "number": "131",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3934,6 +3933,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Order_Pad_(Ultra_Prism_131)"
   },
   {
@@ -3946,7 +3946,6 @@
     "retreatCost": null,
     "number": "132",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3964,6 +3963,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Pal_Pad_(Ultra_Prism_132)"
   },
   {
@@ -3976,7 +3976,6 @@
     "retreatCost": null,
     "number": "133",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3994,6 +3993,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Fan_Club_(Ultra_Prism_133)"
   },
   {
@@ -4006,7 +4006,6 @@
     "retreatCost": null,
     "number": "134",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4024,6 +4023,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Unidentified_Fossil_(Ultra_Prism_134)"
   },
   {
@@ -4036,7 +4036,6 @@
     "retreatCost": null,
     "number": "135",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4054,6 +4053,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Volkner_(Ultra_Prism_135)"
   },
   {
@@ -4066,7 +4066,6 @@
     "retreatCost": null,
     "number": "136",
     "artist": null,
-    "rarity": "Rare Holo",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4084,6 +4083,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Holo",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Super_Boost_Energy_%E2%99%A2_(Ultra_Prism_136)"
   },
   {
@@ -4096,7 +4096,6 @@
     "retreatCost": null,
     "number": "137",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4114,6 +4113,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Unit_Energy_GFW_(Ultra_Prism_137)"
   },
   {
@@ -4126,7 +4126,6 @@
     "retreatCost": null,
     "number": "138",
     "artist": null,
-    "rarity": "Uncommon",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4144,20 +4143,19 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Uncommon",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Unit_Energy_LPM_(Ultra_Prism_138)"
   },
   {
     "id": "sm5-139",
     "name": "Leafeon-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "139",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4175,20 +4173,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Leafeon-GX_(Ultra_Prism_139)"
   },
   {
     "id": "sm5-140",
     "name": "Pheromosa-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "140",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4206,20 +4204,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Pheromosa-GX_(Ultra_Prism_140)"
   },
   {
     "id": "sm5-141",
     "name": "Glaceon-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "141",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4237,20 +4235,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Glaceon-GX_(Ultra_Prism_141)"
   },
   {
     "id": "sm5-142",
     "name": "Xurkitree-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "142",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4268,20 +4266,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Xurkitree-GX_(Ultra_Prism_142)"
   },
   {
     "id": "sm5-143",
     "name": "Dawn Wings Necrozma-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "143",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4299,20 +4297,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Dawn_Wings_Necrozma-GX_(Ultra_Prism_143)"
   },
   {
     "id": "sm5-144",
     "name": "Celesteela-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "144",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4330,20 +4328,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Celesteela-GX_(Ultra_Prism_144)"
   },
   {
     "id": "sm5-145",
     "name": "Dusk Mane Necrozma-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "145",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4361,20 +4359,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Dusk_Mane_Necrozma-GX_(Ultra_Prism_145)"
   },
   {
     "id": "sm5-146",
     "name": "Dialga-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "146",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4392,20 +4390,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Dialga-GX_(Ultra_Prism_146)"
   },
   {
     "id": "sm5-147",
     "name": "Palkia-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "147",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4423,6 +4421,8 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Palkia-GX_(Ultra_Prism_147)"
   },
   {
@@ -4435,7 +4435,6 @@
     "retreatCost": null,
     "number": "148",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4453,6 +4452,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Cynthia_(Ultra_Prism_148)"
   },
   {
@@ -4465,7 +4465,6 @@
     "retreatCost": null,
     "number": "149",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4483,6 +4482,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Gardenia_(Ultra_Prism_149)"
   },
   {
@@ -4495,7 +4495,6 @@
     "retreatCost": null,
     "number": "150",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4513,6 +4512,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Lana_(Ultra_Prism_150)"
   },
   {
@@ -4525,7 +4525,6 @@
     "retreatCost": null,
     "number": "151",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4543,6 +4542,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Lillie_(Ultra_Prism_151)"
   },
   {
@@ -4555,7 +4555,6 @@
     "retreatCost": null,
     "number": "152",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4573,6 +4572,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Looker_(Ultra_Prism_152)"
   },
   {
@@ -4585,7 +4585,6 @@
     "retreatCost": null,
     "number": "153",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4603,6 +4602,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Lusamine_(Ultra_Prism_153)"
   },
   {
@@ -4615,7 +4615,6 @@
     "retreatCost": null,
     "number": "154",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4633,6 +4632,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Mars_(Ultra_Prism_154)"
   },
   {
@@ -4645,7 +4645,6 @@
     "retreatCost": null,
     "number": "155",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4663,6 +4662,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Fan_Club_(Ultra_Prism_155)"
   },
   {
@@ -4675,7 +4675,6 @@
     "retreatCost": null,
     "number": "156",
     "artist": null,
-    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4693,20 +4692,19 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Ultra",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Volkner_(Ultra_Prism_156)"
   },
   {
     "id": "sm5-157",
     "name": "Leafeon-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "157",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4724,20 +4722,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Leafeon-GX_(Ultra_Prism_157)"
   },
   {
     "id": "sm5-158",
     "name": "Pheromosa-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "158",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4755,20 +4753,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Pheromosa-GX_(Ultra_Prism_158)"
   },
   {
     "id": "sm5-159",
     "name": "Glaceon-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "159",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4786,20 +4784,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Glaceon-GX_(Ultra_Prism_159)"
   },
   {
     "id": "sm5-160",
     "name": "Xurkitree-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "160",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4817,20 +4815,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Xurkitree-GX_(Ultra_Prism_160)"
   },
   {
     "id": "sm5-161",
     "name": "Dawn Wings Necrozma-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "161",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4848,20 +4846,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Dawn_Wings_Necrozma-GX_(Ultra_Prism_161)"
   },
   {
     "id": "sm5-162",
     "name": "Celesteela-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "162",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4879,20 +4877,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Celesteela-GX_(Ultra_Prism_162)"
   },
   {
     "id": "sm5-163",
     "name": "Dusk Mane Necrozma-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "163",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4910,20 +4908,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Dusk_Mane_Necrozma-GX_(Ultra_Prism_163)"
   },
   {
     "id": "sm5-164",
     "name": "Dialga-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "164",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4941,20 +4939,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Dialga-GX_(Ultra_Prism_164)"
   },
   {
     "id": "sm5-165",
     "name": "Palkia-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "165",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4972,6 +4970,8 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Palkia-GX_(Ultra_Prism_165)"
   },
   {
@@ -4984,7 +4984,6 @@
     "retreatCost": null,
     "number": "166",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -5002,6 +5001,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Crushing_Hammer_(Ultra_Prism_166)"
   },
   {
@@ -5014,7 +5014,6 @@
     "retreatCost": null,
     "number": "167",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -5032,6 +5031,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Escape_Board_(Ultra_Prism_167)"
   },
   {
@@ -5044,7 +5044,6 @@
     "retreatCost": null,
     "number": "168",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -5062,6 +5061,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Missing_Clover_(Ultra_Prism_168)"
   },
   {
@@ -5074,7 +5074,6 @@
     "retreatCost": null,
     "number": "169",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -5092,6 +5091,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Peeking_Red_Card_(Ultra_Prism_169)"
   },
   {
@@ -5104,7 +5104,6 @@
     "retreatCost": null,
     "number": "170",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -5122,6 +5121,7 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Unit_Energy_GFW_(Ultra_Prism_170)"
   },
   {
@@ -5134,7 +5134,6 @@
     "retreatCost": null,
     "number": "171",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -5152,20 +5151,19 @@
     "evolvesTo": [
 
     ],
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Unit_Energy_LPM_(Ultra_Prism_171)"
   },
   {
     "id": "sm5-172",
     "name": "Lunala-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "172",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -5183,20 +5181,20 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Lunala-GX_(Ultra_Prism_172)"
   },
   {
     "id": "sm5-173",
     "name": "Solgaleo-GX",
     "imageUrl": "",
-    "subtype": "GX",
+    "subtype": null,
     "supertype": null,
-    "level": "GX",
     "hp": 0,
     "retreatCost": null,
     "number": "173",
     "artist": null,
-    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -5214,6 +5212,8 @@
     "evolvesTo": [
 
     ],
+    "level": "GX",
+    "rarity": "Rare Secret",
     "bulba_stub": "https://bulbapedia.bulbagarden.net/wiki/Solgaleo-GX_(Ultra_Prism_173)"
   }
 ]
